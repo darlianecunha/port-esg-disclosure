@@ -1,0 +1,399 @@
+dimension,language,term,regex_s1
+Governance,PT,GRI,\bgris?\b
+Governance,PT,SASB,\bsasbs?\b
+Governance,PT,relato integrado,\brelato\ integrados?\b
+Governance,PT,relatório de sustentabilidade,\brelatório\ de\ sustentabilidades?\b
+Governance,PT,verificação independente,\bverificação\ independentes?\b
+Governance,PT,assurance,\bassurances?\b
+Governance,PT,materialidade,\bmaterialidades?\b
+Governance,PT,política de ESG,\bpolítica\ de\ esgs?\b
+Governance,PT,política de sustentabilidade,\bpolítica\ de\ sustentabilidades?\b
+Governance,PT,política de divulgação,\bpolítica\ de\ divulgaçãos?\b
+Governance,PT,governança,\bgovernanças?\b
+Governance,PT,governança corporativa,\bgovernança\ corporativas?\b
+Governance,PT,conselho de administração,\bconselho\ de\ administraçãos?\b
+Governance,PT,comitê de auditoria,\bcomitê\ de\ auditorias?\b
+Governance,PT,comitê de ESG,\bcomitê\ de\ esgs?\b
+Governance,PT,remuneração executiva,\bremuneração\ executivas?\b
+Governance,PT,independência,\bindependências?\b
+Governance,PT,composição do conselho,\bcomposição\ do\ conselhos?\b
+Governance,PT,compliance,\bcompliances?\b
+Governance,PT,conformidade,\bconformidades?\b
+Governance,PT,auditoria,\bauditorias?\b
+Governance,PT,integridade,\bintegridades?\b
+Governance,PT,transparência,\btransparências?\b
+Governance,PT,ética,\béticas?\b
+Governance,PT,anticorrupção,\banticorrupçãos?\b
+Governance,PT,código de conduta,\bcódigo\ de\ condutas?\b
+Governance,PT,código de ética,\bcódigo\ de\ éticas?\b
+Governance,PT,canal de ética,\bcanal\ de\ éticas?\b
+Governance,PT,denúncias,\bdenúncias\b
+Governance,PT,conflito de interesses,\bconflito\ de\ interesses\b
+Governance,PT,parte relacionada,\bparte\ relacionadas?\b
+Governance,PT,gestão de riscos,\bgestão\ de\ riscos\b
+Governance,PT,risco corporativo,\brisco\ corporativos?\b
+Governance,PT,controles internos,\bcontroles\ internos\b
+Governance,PT,gestão de crises,\bgestão\ de\ crises\b
+Governance,PT,plano de continuidade,\bplano\ de\ continuidades?\b
+Governance,PT,regulatório,\bregulatórios?\b
+Governance,PT,marco regulatório,\bmarco\ regulatórios?\b
+Governance,PT,licença de operação,\blicença\ de\ operaçãos?\b
+Governance,PT,direitos humanos,\bdireitos\ humanos\b
+Governance,PT,due diligence,\bdue\ diligences?\b
+Governance,PT,prestação de contas,\bprestação\ de\ contas\b
+Governance,PT,accountability,\baccountabilitys?\b
+Governance,PT,LGPD,\blgpds?\b
+Governance,PT,ODS,\bods\b
+Governance,PT,objetivos de desenvolvimento sustentável,\bobjetivos\ de\ desenvolvimento\ sustentávels?\b
+Governance,PT,agenda 2030,\bagenda\ 2030s?\b
+Governance,PT,agenda ESG,\bagenda\ esgs?\b
+Governance,EN,integrated report,\bintegrated\ reports?\b
+Governance,EN,sustainability report,\bsustainability\ reports?\b
+Governance,EN,independent assurance,\bindependent\ assurances?\b
+Governance,EN,materiality,\bmaterialitys?\b
+Governance,EN,ESG policy,\besg\ policys?\b
+Governance,EN,board of directors,\bboard\ of\ directors\b
+Governance,EN,audit committee,\baudit\ committees?\b
+Governance,EN,executive compensation,\bexecutive\ compensations?\b
+Governance,EN,governance,\bgovernances?\b
+Governance,EN,corporate governance,\bcorporate\ governances?\b
+Governance,EN,audit,\baudits?\b
+Governance,EN,integrity,\bintegritys?\b
+Governance,EN,transparency,\btransparencys?\b
+Governance,EN,anti-corruption,\banti\-corruptions?\b
+Governance,EN,ethics,\bethics\b
+Governance,EN,code of conduct,\bcode\ of\ conducts?\b
+Governance,EN,whistleblowing,\bwhistleblowings?\b
+Governance,EN,internal controls,\binternal\ controls\b
+Governance,EN,conflict of interest,\bconflict\ of\ interests?\b
+Governance,EN,related party,\brelated\ partys?\b
+Governance,EN,risk management,\brisk\ managements?\b
+Governance,EN,corporate risk,\bcorporate\ risks?\b
+Governance,EN,regulatory,\bregulatorys?\b
+Governance,EN,human rights,\bhuman\ rights\b
+Governance,EN,sustainable development goals,\bsustainable\ development\ goals\b
+Governance,EN,SDGs,\bsdgs\b
+Operational Efficiency and Safety,PT,eficiência operacional,\beficiência\ operacionals?\b
+Operational Efficiency and Safety,PT,produtividade,\bprodutividades?\b
+Operational Efficiency and Safety,PT,desempenho operacional,\bdesempenho\ operacionals?\b
+Operational Efficiency and Safety,PT,capacidade instalada,\bcapacidade\ instaladas?\b
+Operational Efficiency and Safety,PT,capacidade portuária,\bcapacidade\ portuárias?\b
+Operational Efficiency and Safety,PT,tempo de atracação,\btempo\ de\ atracaçãos?\b
+Operational Efficiency and Safety,PT,tempo de espera,\btempo\ de\ esperas?\b
+Operational Efficiency and Safety,PT,giro de navios,\bgiro\ de\ navios\b
+Operational Efficiency and Safety,PT,janela de atracação,\bjanela\ de\ atracaçãos?\b
+Operational Efficiency and Safety,PT,throughput,\bthroughputs?\b
+Operational Efficiency and Safety,PT,movimentação de carga,\bmovimentação\ de\ cargas?\b
+Operational Efficiency and Safety,PT,logística,\blogísticas?\b
+Operational Efficiency and Safety,PT,automação,\bautomaçãos?\b
+Operational Efficiency and Safety,PT,digitalização,\bdigitalizaçãos?\b
+Operational Efficiency and Safety,PT,tecnologia portuária,\btecnologia\ portuárias?\b
+Operational Efficiency and Safety,PT,manutenção,\bmanutençãos?\b
+Operational Efficiency and Safety,PT,confiabilidade,\bconfiabilidades?\b
+Operational Efficiency and Safety,PT,inovação operacional,\binovação\ operacionals?\b
+Operational Efficiency and Safety,PT,segurança do trabalho,\bsegurança\ do\ trabalhos?\b
+Operational Efficiency and Safety,PT,segurança operacional,\bsegurança\ operacionals?\b
+Operational Efficiency and Safety,PT,prevenção de acidentes,\bprevenção\ de\ acidentes\b
+Operational Efficiency and Safety,PT,SST,\bssts?\b
+Operational Efficiency and Safety,PT,saúde e segurança no trabalho,\bsaúde\ e\ segurança\ no\ trabalhos?\b
+Operational Efficiency and Safety,PT,CIPA,\bcipas?\b
+Operational Efficiency and Safety,PT,NRs,\bnrs\b
+Operational Efficiency and Safety,PT,equipamento de proteção,\bequipamento\ de\ proteçãos?\b
+Operational Efficiency and Safety,PT,taxa de acidente,\btaxa\ de\ acidentes?\b
+Operational Efficiency and Safety,PT,taxa de frequência,\btaxa\ de\ frequências?\b
+Operational Efficiency and Safety,PT,taxa de gravidade,\btaxa\ de\ gravidades?\b
+Operational Efficiency and Safety,PT,gestão de riscos operacionais,\bgestão\ de\ riscos\ operacionais\b
+Operational Efficiency and Safety,PT,plano de emergência,\bplano\ de\ emergências?\b
+Operational Efficiency and Safety,PT,simulados,\bsimulados\b
+Operational Efficiency and Safety,PT,resposta a emergências,\bresposta\ a\ emergências\b
+Operational Efficiency and Safety,PT,carga perigosa,\bcarga\ perigosas?\b
+Operational Efficiency and Safety,PT,produto perigoso,\bproduto\ perigosos?\b
+Operational Efficiency and Safety,PT,ISPS Code,\bisps\ codes?\b
+Operational Efficiency and Safety,PT,infraestrutura portuária,\binfraestrutura\ portuárias?\b
+Operational Efficiency and Safety,PT,dragagem,\bdragagems?\b
+Operational Efficiency and Safety,PT,calado,\bcalados?\b
+Operational Efficiency and Safety,PT,berço,\bberços?\b
+Operational Efficiency and Safety,PT,terminal,\bterminals?\b
+Operational Efficiency and Safety,PT,retroárea,\bretroáreas?\b
+Operational Efficiency and Safety,EN,operational efficiency,\boperational\ efficiencys?\b
+Operational Efficiency and Safety,EN,productivity,\bproductivitys?\b
+Operational Efficiency and Safety,EN,logistics,\blogistics\b
+Operational Efficiency and Safety,EN,automation,\bautomations?\b
+Operational Efficiency and Safety,EN,digitalization,\bdigitalizations?\b
+Operational Efficiency and Safety,EN,maintenance,\bmaintenances?\b
+Operational Efficiency and Safety,EN,reliability,\breliabilitys?\b
+Operational Efficiency and Safety,EN,operational performance,\boperational\ performances?\b
+Operational Efficiency and Safety,EN,port capacity,\bport\ capacitys?\b
+Operational Efficiency and Safety,EN,turnaround time,\bturnaround\ times?\b
+Operational Efficiency and Safety,EN,berth occupancy,\bberth\ occupancys?\b
+Operational Efficiency and Safety,EN,occupational safety,\boccupational\ safetys?\b
+Operational Efficiency and Safety,EN,operational safety,\boperational\ safetys?\b
+Operational Efficiency and Safety,EN,accident prevention,\baccident\ preventions?\b
+Operational Efficiency and Safety,EN,health and safety,\bhealth\ and\ safetys?\b
+Operational Efficiency and Safety,EN,emergency drills,\bemergency\ drills\b
+Operational Efficiency and Safety,EN,dangerous goods,\bdangerous\ goods\b
+Operational Efficiency and Safety,EN,accident rate,\baccident\ rates?\b
+Operational Efficiency and Safety,EN,frequency rate,\bfrequency\ rates?\b
+Operational Efficiency and Safety,EN,severity rate,\bseverity\ rates?\b
+Operational Efficiency and Safety,EN,operational risk management,\boperational\ risk\ managements?\b
+Operational Efficiency and Safety,EN,emergency response,\bemergency\ responses?\b
+Operational Efficiency and Safety,EN,port infrastructure,\bport\ infrastructures?\b
+Operational Efficiency and Safety,EN,dredging,\bdredgings?\b
+Operational Efficiency and Safety,EN,draft,\bdrafts?\b
+Climate Change and Energy Transition,PT,mudanças climáticas,\bmudanças\ climáticas\b
+Climate Change and Energy Transition,PT,alterações climáticas,\balterações\ climáticas\b
+Climate Change and Energy Transition,PT,risco climático,\brisco\ climáticos?\b
+Climate Change and Energy Transition,PT,adaptação climática,\badaptação\ climáticas?\b
+Climate Change and Energy Transition,PT,resiliência climática,\bresiliência\ climáticas?\b
+Climate Change and Energy Transition,PT,mitigação climática,\bmitigação\ climáticas?\b
+Climate Change and Energy Transition,PT,meta climática,\bmeta\ climáticas?\b
+Climate Change and Energy Transition,PT,meta de emissões,\bmeta\ de\ emissões\b
+Climate Change and Energy Transition,PT,acordo de paris,\bacordo\ de\ paris\b
+Climate Change and Energy Transition,PT,IPCC,\bipccs?\b
+Climate Change and Energy Transition,PT,ODS 13,\bods\ 13s?\b
+Climate Change and Energy Transition,PT,pegada de carbono,\bpegada\ de\ carbonos?\b
+Climate Change and Energy Transition,PT,emissões de carbono,\bemissões\ de\ carbonos?\b
+Climate Change and Energy Transition,PT,emissões de GEE,\bemissões\ de\ gees?\b
+Climate Change and Energy Transition,PT,gases de efeito estufa,\bgases\ de\ efeito\ estufas?\b
+Climate Change and Energy Transition,PT,inventário de emissões,\binventário\ de\ emissões\b
+Climate Change and Energy Transition,PT,escopo 1,\bescopo\ 1s?\b
+Climate Change and Energy Transition,PT,escopo 2,\bescopo\ 2s?\b
+Climate Change and Energy Transition,PT,escopo 3,\bescopo\ 3s?\b
+Climate Change and Energy Transition,PT,protocolo GHG,\bprotocolo\ ghgs?\b
+Climate Change and Energy Transition,PT,carbono equivalente,\bcarbono\ equivalentes?\b
+Climate Change and Energy Transition,PT,neutralidade de carbono,\bneutralidade\ de\ carbonos?\b
+Climate Change and Energy Transition,PT,carbono neutro,\bcarbono\ neutros?\b
+Climate Change and Energy Transition,PT,net zero,\bnet\ zeros?\b
+Climate Change and Energy Transition,PT,zero emissão,\bzero\ emissãos?\b
+Climate Change and Energy Transition,PT,descarbonização,\bdescarbonizaçãos?\b
+Climate Change and Energy Transition,PT,compensação de carbono,\bcompensação\ de\ carbonos?\b
+Climate Change and Energy Transition,PT,crédito de carbono,\bcrédito\ de\ carbonos?\b
+Climate Change and Energy Transition,PT,REDD,\bredds?\b
+Climate Change and Energy Transition,PT,transição energética,\btransição\ energéticas?\b
+Climate Change and Energy Transition,PT,eficiência energética,\beficiência\ energéticas?\b
+Climate Change and Energy Transition,PT,energia renovável,\benergia\ renovávels?\b
+Climate Change and Energy Transition,PT,energia limpa,\benergia\ limpas?\b
+Climate Change and Energy Transition,PT,energia solar,\benergia\ solars?\b
+Climate Change and Energy Transition,PT,energia eólica,\benergia\ eólicas?\b
+Climate Change and Energy Transition,PT,energia fotovoltaica,\benergia\ fotovoltaicas?\b
+Climate Change and Energy Transition,PT,biocombustíveis,\bbiocombustíveis\b
+Climate Change and Energy Transition,PT,hidrogênio verde,\bhidrogênio\ verdes?\b
+Climate Change and Energy Transition,PT,eletrificação,\beletrificaçãos?\b
+Climate Change and Energy Transition,PT,cold ironing,\bcold\ ironings?\b
+Climate Change and Energy Transition,PT,OPS,\bops\b
+Climate Change and Energy Transition,PT,onshore power supply,\bonshore\ power\ supplys?\b
+Climate Change and Energy Transition,PT,combustível de baixo carbono,\bcombustível\ de\ baixo\ carbonos?\b
+Climate Change and Energy Transition,PT,GNL,\bgnls?\b
+Climate Change and Energy Transition,PT,amônia verde,\bamônia\ verdes?\b
+Climate Change and Energy Transition,PT,consumo de energia,\bconsumo\ de\ energias?\b
+Climate Change and Energy Transition,PT,intensidade energética,\bintensidade\ energéticas?\b
+Climate Change and Energy Transition,PT,eficiência de frota,\beficiência\ de\ frotas?\b
+Climate Change and Energy Transition,PT,retrofit de embarcações,\bretrofit\ de\ embarcações\b
+Climate Change and Energy Transition,EN,climate change,\bclimate\ changes?\b
+Climate Change and Energy Transition,EN,climate risk,\bclimate\ risks?\b
+Climate Change and Energy Transition,EN,climate adaptation,\bclimate\ adaptations?\b
+Climate Change and Energy Transition,EN,climate resilience,\bclimate\ resiliences?\b
+Climate Change and Energy Transition,EN,climate mitigation,\bclimate\ mitigations?\b
+Climate Change and Energy Transition,EN,emissions target,\bemissions\ targets?\b
+Climate Change and Energy Transition,EN,Paris Agreement,\bparis\ agreements?\b
+Climate Change and Energy Transition,EN,SDG 13,\bsdg\ 13s?\b
+Climate Change and Energy Transition,EN,carbon footprint,\bcarbon\ footprints?\b
+Climate Change and Energy Transition,EN,carbon emissions,\bcarbon\ emissions\b
+Climate Change and Energy Transition,EN,GHG emissions,\bghg\ emissions\b
+Climate Change and Energy Transition,EN,greenhouse gas,\bgreenhouse\ gas\b
+Climate Change and Energy Transition,EN,emissions inventory,\bemissions\ inventorys?\b
+Climate Change and Energy Transition,EN,scope 1,\bscope\ 1s?\b
+Climate Change and Energy Transition,EN,scope 2,\bscope\ 2s?\b
+Climate Change and Energy Transition,EN,scope 3,\bscope\ 3s?\b
+Climate Change and Energy Transition,EN,GHG protocol,\bghg\ protocols?\b
+Climate Change and Energy Transition,EN,carbon equivalent,\bcarbon\ equivalents?\b
+Climate Change and Energy Transition,EN,carbon neutrality,\bcarbon\ neutralitys?\b
+Climate Change and Energy Transition,EN,zero emission,\bzero\ emissions?\b
+Climate Change and Energy Transition,EN,decarbonisation,\bdecarbonisations?\b
+Climate Change and Energy Transition,EN,decarbonization,\bdecarbonizations?\b
+Climate Change and Energy Transition,EN,carbon offset,\bcarbon\ offsets?\b
+Climate Change and Energy Transition,EN,carbon credit,\bcarbon\ credits?\b
+Climate Change and Energy Transition,EN,energy transition,\benergy\ transitions?\b
+Climate Change and Energy Transition,EN,energy efficiency,\benergy\ efficiencys?\b
+Climate Change and Energy Transition,EN,renewable energy,\brenewable\ energys?\b
+Climate Change and Energy Transition,EN,clean energy,\bclean\ energys?\b
+Climate Change and Energy Transition,EN,solar energy,\bsolar\ energys?\b
+Climate Change and Energy Transition,EN,wind energy,\bwind\ energys?\b
+Climate Change and Energy Transition,EN,biofuels,\bbiofuels\b
+Climate Change and Energy Transition,EN,green hydrogen,\bgreen\ hydrogens?\b
+Climate Change and Energy Transition,EN,electrification,\belectrifications?\b
+Climate Change and Energy Transition,EN,low carbon fuel,\blow\ carbon\ fuels?\b
+Climate Change and Energy Transition,EN,LNG,\blngs?\b
+Climate Change and Energy Transition,EN,green ammonia,\bgreen\ ammonias?\b
+Climate Change and Energy Transition,EN,energy consumption,\benergy\ consumptions?\b
+Climate Change and Energy Transition,EN,energy intensity,\benergy\ intensitys?\b
+Social Responsibility and Stakeholder Engagement,PT,responsabilidade social,\bresponsabilidade\ socials?\b
+Social Responsibility and Stakeholder Engagement,PT,responsabilidade social corporativa,\bresponsabilidade\ social\ corporativas?\b
+Social Responsibility and Stakeholder Engagement,PT,RSC,\brscs?\b
+Social Responsibility and Stakeholder Engagement,PT,comunidade,\bcomunidades?\b
+Social Responsibility and Stakeholder Engagement,PT,comunidade local,\bcomunidade\ locals?\b
+Social Responsibility and Stakeholder Engagement,PT,engajamento de stakeholders,\bengajamento\ de\ stakeholders\b
+Social Responsibility and Stakeholder Engagement,PT,partes interessadas,\bpartes\ interessadas\b
+Social Responsibility and Stakeholder Engagement,PT,diálogo social,\bdiálogo\ socials?\b
+Social Responsibility and Stakeholder Engagement,PT,consulta pública,\bconsulta\ públicas?\b
+Social Responsibility and Stakeholder Engagement,PT,ouvidoria,\bouvidorias?\b
+Social Responsibility and Stakeholder Engagement,PT,canal de relacionamento,\bcanal\ de\ relacionamentos?\b
+Social Responsibility and Stakeholder Engagement,PT,licença social para operar,\blicença\ social\ para\ operars?\b
+Social Responsibility and Stakeholder Engagement,PT,educação ambiental,\beducação\ ambientals?\b
+Social Responsibility and Stakeholder Engagement,PT,capacitação,\bcapacitaçãos?\b
+Social Responsibility and Stakeholder Engagement,PT,formação profissional,\bformação\ profissionals?\b
+Social Responsibility and Stakeholder Engagement,PT,voluntariado,\bvoluntariados?\b
+Social Responsibility and Stakeholder Engagement,PT,investimento social,\binvestimento\ socials?\b
+Social Responsibility and Stakeholder Engagement,PT,impacto social,\bimpacto\ socials?\b
+Social Responsibility and Stakeholder Engagement,PT,diversidade,\bdiversidades?\b
+Social Responsibility and Stakeholder Engagement,PT,equidade,\bequidades?\b
+Social Responsibility and Stakeholder Engagement,PT,inclusão,\binclusãos?\b
+Social Responsibility and Stakeholder Engagement,PT,DEI,\bdeis?\b
+Social Responsibility and Stakeholder Engagement,PT,igualdade de gênero,\bigualdade\ de\ gêneros?\b
+Social Responsibility and Stakeholder Engagement,PT,igualdade racial,\bigualdade\ racials?\b
+Social Responsibility and Stakeholder Engagement,PT,pessoas com deficiência,\bpessoas\ com\ deficiências?\b
+Social Responsibility and Stakeholder Engagement,PT,PCD,\bpcds?\b
+Social Responsibility and Stakeholder Engagement,PT,igualdade salarial,\bigualdade\ salarials?\b
+Social Responsibility and Stakeholder Engagement,PT,brecha salarial,\bbrecha\ salarials?\b
+Social Responsibility and Stakeholder Engagement,PT,direitos humanos,\bdireitos\ humanos\b
+Social Responsibility and Stakeholder Engagement,PT,trabalho decente,\btrabalho\ decentes?\b
+Social Responsibility and Stakeholder Engagement,PT,trabalho infantil,\btrabalho\ infantils?\b
+Social Responsibility and Stakeholder Engagement,PT,trabalho forçado,\btrabalho\ forçados?\b
+Social Responsibility and Stakeholder Engagement,PT,trabalho análogo à escravidão,\btrabalho\ análogo\ à\ escravidãos?\b
+Social Responsibility and Stakeholder Engagement,PT,assédio moral,\bassédio\ morals?\b
+Social Responsibility and Stakeholder Engagement,PT,assédio sexual,\bassédio\ sexuals?\b
+Social Responsibility and Stakeholder Engagement,PT,cadeia de valor,\bcadeia\ de\ valors?\b
+Social Responsibility and Stakeholder Engagement,PT,cadeia de suprimentos,\bcadeia\ de\ suprimentos\b
+Social Responsibility and Stakeholder Engagement,PT,fornecedores responsáveis,\bfornecedores\ responsáveis\b
+Social Responsibility and Stakeholder Engagement,PT,critérios socioambientais,\bcritérios\ socioambientais\b
+Social Responsibility and Stakeholder Engagement,PT,saúde e bem-estar,\bsaúde\ e\ bem\-estars?\b
+Social Responsibility and Stakeholder Engagement,PT,qualidade de vida no trabalho,\bqualidade\ de\ vida\ no\ trabalhos?\b
+Social Responsibility and Stakeholder Engagement,PT,programa de saúde,\bprograma\ de\ saúdes?\b
+Social Responsibility and Stakeholder Engagement,PT,segurança alimentar,\bsegurança\ alimentars?\b
+Social Responsibility and Stakeholder Engagement,EN,social responsibility,\bsocial\ responsibilitys?\b
+Social Responsibility and Stakeholder Engagement,EN,corporate social responsibility,\bcorporate\ social\ responsibilitys?\b
+Social Responsibility and Stakeholder Engagement,EN,CSR,\bcsrs?\b
+Social Responsibility and Stakeholder Engagement,EN,community,\bcommunitys?\b
+Social Responsibility and Stakeholder Engagement,EN,local community,\blocal\ communitys?\b
+Social Responsibility and Stakeholder Engagement,EN,stakeholder engagement,\bstakeholder\ engagements?\b
+Social Responsibility and Stakeholder Engagement,EN,stakeholders,\bstakeholders\b
+Social Responsibility and Stakeholder Engagement,EN,social dialogue,\bsocial\ dialogues?\b
+Social Responsibility and Stakeholder Engagement,EN,public consultation,\bpublic\ consultations?\b
+Social Responsibility and Stakeholder Engagement,EN,social licence to operate,\bsocial\ licence\ to\ operates?\b
+Social Responsibility and Stakeholder Engagement,EN,environmental education,\benvironmental\ educations?\b
+Social Responsibility and Stakeholder Engagement,EN,capacity building,\bcapacity\ buildings?\b
+Social Responsibility and Stakeholder Engagement,EN,vocational training,\bvocational\ trainings?\b
+Social Responsibility and Stakeholder Engagement,EN,volunteering,\bvolunteerings?\b
+Social Responsibility and Stakeholder Engagement,EN,social investment,\bsocial\ investments?\b
+Social Responsibility and Stakeholder Engagement,EN,social impact,\bsocial\ impacts?\b
+Social Responsibility and Stakeholder Engagement,EN,diversity,\bdiversitys?\b
+Social Responsibility and Stakeholder Engagement,EN,equity,\bequitys?\b
+Social Responsibility and Stakeholder Engagement,EN,inclusion,\binclusions?\b
+Social Responsibility and Stakeholder Engagement,EN,gender equality,\bgender\ equalitys?\b
+Social Responsibility and Stakeholder Engagement,EN,racial equality,\bracial\ equalitys?\b
+Social Responsibility and Stakeholder Engagement,EN,persons with disabilities,\bpersons\ with\ disabilities\b
+Social Responsibility and Stakeholder Engagement,EN,pay gap,\bpay\ gaps?\b
+Social Responsibility and Stakeholder Engagement,EN,human rights,\bhuman\ rights\b
+Social Responsibility and Stakeholder Engagement,EN,decent work,\bdecent\ works?\b
+Social Responsibility and Stakeholder Engagement,EN,child labour,\bchild\ labours?\b
+Social Responsibility and Stakeholder Engagement,EN,forced labour,\bforced\ labours?\b
+Social Responsibility and Stakeholder Engagement,EN,harassment,\bharassments?\b
+Social Responsibility and Stakeholder Engagement,EN,value chain,\bvalue\ chains?\b
+Social Responsibility and Stakeholder Engagement,EN,supply chain,\bsupply\ chains?\b
+Social Responsibility and Stakeholder Engagement,EN,responsible suppliers,\bresponsible\ suppliers\b
+Social Responsibility and Stakeholder Engagement,EN,health and well-being,\bhealth\ and\ well\-beings?\b
+Social Responsibility and Stakeholder Engagement,EN,quality of life,\bquality\ of\ lifes?\b
+Port-City and Environmental Interface,PT,interface porto-cidade,\binterface\ porto\-cidades?\b
+Port-City and Environmental Interface,PT,vizinhança portuária,\bvizinhança\ portuárias?\b
+Port-City and Environmental Interface,PT,planejamento urbano,\bplanejamento\ urbanos?\b
+Port-City and Environmental Interface,PT,mobilidade urbana,\bmobilidade\ urbanas?\b
+Port-City and Environmental Interface,PT,zoneamento,\bzoneamentos?\b
+Port-City and Environmental Interface,PT,uso do solo,\buso\ do\ solos?\b
+Port-City and Environmental Interface,PT,área de influência,\bárea\ de\ influências?\b
+Port-City and Environmental Interface,PT,licenciamento ambiental,\blicenciamento\ ambientals?\b
+Port-City and Environmental Interface,PT,EIA,\beias?\b
+Port-City and Environmental Interface,PT,RIMA,\brimas?\b
+Port-City and Environmental Interface,PT,avaliação de impacto ambiental,\bavaliação\ de\ impacto\ ambientals?\b
+Port-City and Environmental Interface,PT,AIA,\baias?\b
+Port-City and Environmental Interface,PT,compensação ambiental,\bcompensação\ ambientals?\b
+Port-City and Environmental Interface,PT,medidas mitigadoras,\bmedidas\ mitigadoras\b
+Port-City and Environmental Interface,PT,IBAMA,\bibamas?\b
+Port-City and Environmental Interface,PT,ICMBio,\bicmbios?\b
+Port-City and Environmental Interface,PT,órgão ambiental,\bórgão\ ambientals?\b
+Port-City and Environmental Interface,PT,monitoramento ambiental,\bmonitoramento\ ambientals?\b
+Port-City and Environmental Interface,PT,programa de monitoramento,\bprograma\ de\ monitoramentos?\b
+Port-City and Environmental Interface,PT,qualidade do ar,\bqualidade\ do\ ars?\b
+Port-City and Environmental Interface,PT,emissões atmosféricas,\bemissões\ atmosféricas\b
+Port-City and Environmental Interface,PT,poluição atmosférica,\bpoluição\ atmosféricas?\b
+Port-City and Environmental Interface,PT,material particulado,\bmaterial\ particulados?\b
+Port-City and Environmental Interface,PT,qualidade da água,\bqualidade\ da\ águas?\b
+Port-City and Environmental Interface,PT,monitoramento hídrico,\bmonitoramento\ hídricos?\b
+Port-City and Environmental Interface,PT,ruído,\bruídos?\b
+Port-City and Environmental Interface,PT,poluição sonora,\bpoluição\ sonoras?\b
+Port-City and Environmental Interface,PT,vibração,\bvibraçãos?\b
+Port-City and Environmental Interface,PT,biodiversidade,\bbiodiversidades?\b
+Port-City and Environmental Interface,PT,fauna e flora,\bfauna\ e\ floras?\b
+Port-City and Environmental Interface,PT,ecossistema,\becossistemas?\b
+Port-City and Environmental Interface,PT,área de preservação,\bárea\ de\ preservaçãos?\b
+Port-City and Environmental Interface,PT,APP,\bapps?\b
+Port-City and Environmental Interface,PT,mata ciliar,\bmata\ ciliars?\b
+Port-City and Environmental Interface,PT,espécies ameaçadas,\bespécies\ ameaçadas\b
+Port-City and Environmental Interface,PT,tartarugas marinhas,\btartarugas\ marinhas\b
+Port-City and Environmental Interface,PT,manguezal,\bmanguezals?\b
+Port-City and Environmental Interface,PT,recife de coral,\brecife\ de\ corals?\b
+Port-City and Environmental Interface,PT,resíduos sólidos,\bresíduos\ sólidos\b
+Port-City and Environmental Interface,PT,gestão de resíduos,\bgestão\ de\ resíduos\b
+Port-City and Environmental Interface,PT,resíduos perigosos,\bresíduos\ perigosos\b
+Port-City and Environmental Interface,PT,resíduo de embarcação,\bresíduo\ de\ embarcaçãos?\b
+Port-City and Environmental Interface,PT,efluentes,\befluentes\b
+Port-City and Environmental Interface,PT,tratamento de efluentes,\btratamento\ de\ efluentes\b
+Port-City and Environmental Interface,PT,esgoto sanitário,\besgoto\ sanitários?\b
+Port-City and Environmental Interface,PT,contaminação do solo,\bcontaminação\ do\ solos?\b
+Port-City and Environmental Interface,PT,dragagem sustentável,\bdragagem\ sustentávels?\b
+Port-City and Environmental Interface,PT,sedimento,\bsedimentos?\b
+Port-City and Environmental Interface,PT,paisagem,\bpaisagems?\b
+Port-City and Environmental Interface,PT,odor,\bodors?\b
+Port-City and Environmental Interface,PT,controle de poeira,\bcontrole\ de\ poeiras?\b
+Port-City and Environmental Interface,PT,reflorestamento,\breflorestamentos?\b
+Port-City and Environmental Interface,PT,áreas verdes,\báreas\ verdes\b
+Port-City and Environmental Interface,PT,arborização,\barborizaçãos?\b
+Port-City and Environmental Interface,EN,port-city interface,\bport\-city\ interfaces?\b
+Port-City and Environmental Interface,EN,urban planning,\burban\ plannings?\b
+Port-City and Environmental Interface,EN,urban mobility,\burban\ mobilitys?\b
+Port-City and Environmental Interface,EN,zoning,\bzonings?\b
+Port-City and Environmental Interface,EN,land use,\bland\ uses?\b
+Port-City and Environmental Interface,EN,area of influence,\barea\ of\ influences?\b
+Port-City and Environmental Interface,EN,environmental licensing,\benvironmental\ licensings?\b
+Port-City and Environmental Interface,EN,environmental impact assessment,\benvironmental\ impact\ assessments?\b
+Port-City and Environmental Interface,EN,environmental compensation,\benvironmental\ compensations?\b
+Port-City and Environmental Interface,EN,environmental monitoring,\benvironmental\ monitorings?\b
+Port-City and Environmental Interface,EN,air quality,\bair\ qualitys?\b
+Port-City and Environmental Interface,EN,atmospheric emissions,\batmospheric\ emissions\b
+Port-City and Environmental Interface,EN,particulate matter,\bparticulate\ matters?\b
+Port-City and Environmental Interface,EN,water quality,\bwater\ qualitys?\b
+Port-City and Environmental Interface,EN,water monitoring,\bwater\ monitorings?\b
+Port-City and Environmental Interface,EN,noise,\bnoises?\b
+Port-City and Environmental Interface,EN,noise pollution,\bnoise\ pollutions?\b
+Port-City and Environmental Interface,EN,vibration,\bvibrations?\b
+Port-City and Environmental Interface,EN,biodiversity,\bbiodiversitys?\b
+Port-City and Environmental Interface,EN,wildlife,\bwildlifes?\b
+Port-City and Environmental Interface,EN,ecosystem,\becosystems?\b
+Port-City and Environmental Interface,EN,protected area,\bprotected\ areas?\b
+Port-City and Environmental Interface,EN,mangrove,\bmangroves?\b
+Port-City and Environmental Interface,EN,coral reef,\bcoral\ reefs?\b
+Port-City and Environmental Interface,EN,endangered species,\bendangered\ species\b
+Port-City and Environmental Interface,EN,solid waste,\bsolid\ wastes?\b
+Port-City and Environmental Interface,EN,waste management,\bwaste\ managements?\b
+Port-City and Environmental Interface,EN,hazardous waste,\bhazardous\ wastes?\b
+Port-City and Environmental Interface,EN,ship waste,\bship\ wastes?\b
+Port-City and Environmental Interface,EN,effluents,\beffluents\b
+Port-City and Environmental Interface,EN,wastewater treatment,\bwastewater\ treatments?\b
+Port-City and Environmental Interface,EN,soil contamination,\bsoil\ contaminations?\b
+Port-City and Environmental Interface,EN,sustainable dredging,\bsustainable\ dredgings?\b
+Port-City and Environmental Interface,EN,sediment,\bsediments?\b
+Port-City and Environmental Interface,EN,landscape,\blandscapes?\b
+Port-City and Environmental Interface,EN,odour,\bodours?\b
+Port-City and Environmental Interface,EN,dust control,\bdust\ controls?\b
+Port-City and Environmental Interface,EN,reforestation,\breforestations?\b
+Port-City and Environmental Interface,EN,green areas,\bgreen\ areas\b
+Port-City and Environmental Interface,EN,green spaces,\bgreen\ spaces\b
